@@ -9,3 +9,5 @@ https://github.com/x64dbg/x64dbg/wiki/Stylesheets
 Use with [Solarized dark background](https://gist.github.com/techbliss/d6c0002325da01470d3321cc8c218b81) color scheme.
 
 Install Menlo fonts attached in repo
+
+theme is based on [solarized](http://ethanschoonover.com/solarized)
